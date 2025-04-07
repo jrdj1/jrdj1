@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jrdj1
-- 👀 I’m interested in videogames and learning
-- 🌱 I’m currently learning how to be successful
-- 💞️ I’m looking to collaborate on GTA 6
+- 👋 Hi, I’m Jorge
+- 👀 I’m interested in Blockchain an DApps
+- 🌱 I’m currently studying and improving my capabilities
+- 💞️ I’m looking to collaborate on a Blockchain project
 - 📫 How to reach me. Email me to: jrd1@alu.ua.es
 
 <!---
